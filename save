@@ -1,0 +1,1 @@
+ipfs pin add --timeout=300s $1

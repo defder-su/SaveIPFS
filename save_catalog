@@ -1,0 +1,3 @@
+ipfs pin add --timeout=300s --recursive=false $1
+
+# TODO: pin subdirectories
