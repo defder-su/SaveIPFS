@@ -53,7 +53,7 @@ Implement pinning subdirectories in the `save_catalog` command.
 
 - [SaveMedia](https://github.com/defder-su/SaveMedia)
 
-- [RatBrowser](https://ratbrowser.com)
+- [RatBrowser](http://ratbrowser.com)
 
 - [IPFS](https://ipfs.io)
 
@@ -63,4 +63,4 @@ Implement pinning subdirectories in the `save_catalog` command.
 
 ## Contact:
 
-You are welcome in [Defder.info](https://defder.info).
+You are welcome in [Defder.info](http://defder.name).
