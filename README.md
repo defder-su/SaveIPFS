@@ -59,8 +59,3 @@ Implement pinning subdirectories in the `save_catalog` command.
 
 - [ZeroNet](https://zeronet.dev)
 
----
-
-## Contact:
-
-You are welcome in [Defder.info](http://defder.name).
